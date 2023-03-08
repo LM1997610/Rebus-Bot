@@ -1,4 +1,4 @@
-# RebusBot
+# Rebus-Bot
 
 This is a Telegram [**bot**](https://web.telegram.org/k/#@Bot4Rebus_bot), made with Python, that sends a daily **rebus puzzle** to users who make request. 
 
