@@ -1,6 +1,6 @@
 # RebusBot
 
-This is a Telegram [**bot**](https://web.telegram.org/k/#@Bot4Rebus_bot) made with Python that sends a daily **rebus puzzle** to users who make request. 
+This is a Telegram [**bot**](https://web.telegram.org/k/#@Bot4Rebus_bot), made with Python, that sends a daily **rebus puzzle** to users who make request. 
 
 The bot is build with **Telebot** and implemented with **Flask library**.\
 The bot uses a **SQLite database** to store users information. → The bot only sends **one rebus per day** to each user.
